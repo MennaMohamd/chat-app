@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "544377929691",
+    "firebase_url": "https://ccchat-c92af.firebaseio.com",
+    "project_id": "ccchat-c92af",
+    "storage_bucket": "ccchat-c92af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544377929691:android:645328b2711a3ac77b31fe",
+        "android_client_info": {
+          "package_name": "com.example.ccchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544377929691-3q90sk0lpkf08nosovkigjng6omjl00e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbVu1jHn8njw7xxUHbOv-pR6utyLPJn8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544377929691-3q90sk0lpkf08nosovkigjng6omjl00e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544377929691:android:4ab084f54162db8d7b31fe",
+        "android_client_info": {
+          "package_name": "com.example.cchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544377929691-3q90sk0lpkf08nosovkigjng6omjl00e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbVu1jHn8njw7xxUHbOv-pR6utyLPJn8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544377929691-3q90sk0lpkf08nosovkigjng6omjl00e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
